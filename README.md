@@ -1,4 +1,4 @@
 # deprem-io-django
 django-python-website
 
-go to path in manage.py and run in terminal "python3 manage.py runserver"
+Basit bir örnek,yardım talebi formu kaydetme ve veritabanından okuma.
